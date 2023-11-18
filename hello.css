@@ -28,6 +28,7 @@ nav ul li a{
 #PortFolio{
     background-color: blanchedalmond;
     padding: 20px;
+    margin: 50px; ;
 }
 li{
     display: inline;
